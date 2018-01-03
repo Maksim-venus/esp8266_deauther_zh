@@ -1,6 +1,5 @@
 # 本版本是原仓库的汉化版！原README.md在下方
 
-# 设备默认
 # ssid = "pwned";
 # password = "deauther";
 
