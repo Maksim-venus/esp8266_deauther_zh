@@ -2,7 +2,7 @@
 
 # 设备默认
 # ssid = "pwned";
-# password = "deauther"; //must have at least 8 characters
+# password = "deauther";
 
 <hr />
 
