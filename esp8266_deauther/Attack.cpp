@@ -353,7 +353,7 @@ size_t Attack::getSize(){
       _selected++;
     }
   }
-  if (_selected == 0) json += "\"FF:FF:FF:FF:FF:FF - 广播\"";
+  if (_selected == 0) json += "\"FF:FF:FF:FF:FF:FF - BROADCAST\"";
   else json.remove(json.length() - 1);
 
   jsonSize += json.length();
